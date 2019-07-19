@@ -1,5 +1,5 @@
 ## Bangla-Image-Captioning
-<img src="data/graph/pytorch_logo.png"; width=10>
+<img src="data/graph/pytorch_logo.png" width="10%">
 
 
 ### Requirments
