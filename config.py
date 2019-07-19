@@ -1,6 +1,6 @@
 
-train_file = "./data/validHasan.csv"
-valid_file = "./data/validHasan.csv" # "./data/valid.csv"
+train_file = "./data/train.csv"
+valid_file = "./data/valid.csv" # "./data/valid.csv"
 vocab_path = "./data/my_vocabularyTest.pkl"
 threshold = 1
 
